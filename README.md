@@ -93,4 +93,3 @@ The footer status bar shows connection state, buffer usage, app version, and a *
 - No CLI/scripting or CI integration — this is a browser tool by design, with no backend. See `spec.md` §10 for a possible companion-CLI direction.
 - Continuous log rotation requires a manual click when a file hits its size cap (browser security constraint, not a design choice).
 
-For the full functional specification and the reasoning behind these constraints, see [`spec.md`](spec.md).
